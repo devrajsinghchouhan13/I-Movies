@@ -1,0 +1,6 @@
+{
+  "name": "The IMovies - Cinema Booking Platform",
+  "description": "Seamless cinema ticket reservation platform with real-time seat tracking, showtimes, JWT authentication, and admin management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
